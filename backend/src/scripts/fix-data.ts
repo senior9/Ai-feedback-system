@@ -1,5 +1,3 @@
-// backend/src/scripts/fix-data.ts
-
 import dotenv from "dotenv";
 dotenv.config();
 

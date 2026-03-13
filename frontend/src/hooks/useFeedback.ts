@@ -1,5 +1,3 @@
-// frontend/src/hooks/useFeedback.ts
-
 import {
   useQuery,
   useMutation,

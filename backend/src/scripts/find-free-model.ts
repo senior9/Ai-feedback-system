@@ -1,5 +1,3 @@
-// backend/src/scripts/find-free-model.ts
-
 import dotenv from "dotenv";
 dotenv.config();
 

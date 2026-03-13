@@ -1,9 +1,4 @@
-/* frontend/src/App.css */
-
-/* ════════════════════════════════════════════════════════════════
-   DASHBOARD — Main Page Layout
-   ════════════════════════════════════════════════════════════════ */
-
+/* ── Global Styles ── */
 .dashboard {
   max-width: var(--max-width);
   margin: 0 auto;

@@ -1,5 +1,3 @@
-// frontend/src/pages/Dashboard.tsx
-
 import { useState } from "react";
 import { FeedbackList } from "../components/FeedbackList";
 import { SearchBar } from "../components/SearchBar";

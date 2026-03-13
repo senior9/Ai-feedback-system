@@ -1,5 +1,3 @@
-// frontend/src/components/SearchBar.tsx
-
 import { useState } from "react";
 import type { FeedbackFilters } from "../types";
 

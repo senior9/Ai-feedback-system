@@ -1,9 +1,3 @@
-// backend/src/services/ai.service.ts
-// ═══════════════════════════════════════════
-// COMPLETE REPLACEMENT — DELETE everything
-// and paste ONLY this
-// ═══════════════════════════════════════════
-
 import { ChatGoogleGenerativeAI } from "@langchain/google-genai";
 import { z } from "zod";
 import { logger } from "../config/logger";

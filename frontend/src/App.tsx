@@ -1,5 +1,3 @@
-// frontend/src/App.tsx
-
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Dashboard } from "./pages/Dashboard";
 import "./App.css";      // ◀── Component styles loaded SECOND

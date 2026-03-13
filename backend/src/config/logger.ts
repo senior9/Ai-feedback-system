@@ -1,4 +1,3 @@
-// backend/src/config/logger.ts
 
 import pino from "pino";
 

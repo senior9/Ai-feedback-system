@@ -1,5 +1,3 @@
-// frontend/src/services/feedback.api.ts
-
 import type {
   CreateFeedbackInput,
   Feedback,

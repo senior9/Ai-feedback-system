@@ -1,6 +1,4 @@
 import Redis from "ioredis";
-
-// redis.ts
 import { RedisOptions } from "ioredis";
 
 export const redisOptions: RedisOptions = {

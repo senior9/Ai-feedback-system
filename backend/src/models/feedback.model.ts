@@ -1,5 +1,3 @@
-// backend/src/models/feedback.model.ts
-
 import mongoose, { Schema, Document } from "mongoose";
 import type { IFeedback } from "../types/feedback.types";
 

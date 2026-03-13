@@ -1,5 +1,3 @@
-// backend/src/types/feedback.types.ts
-
 export type FeedbackStatus = "open" | "in_progress" | "resolved";
 
 export type FeedbackCategory =| "payment"| "ui_bug"| "feature_request"| "performance"| "security"| "onboarding"| "other";

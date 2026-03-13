@@ -1,5 +1,3 @@
-// backend/src/workers/ai.worker.ts
-
 import { Worker, Job } from "bullmq";
 import { redisOptions } from "../config/redis";
 import { AIService } from "../services/ai.service";

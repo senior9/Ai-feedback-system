@@ -1,6 +1,5 @@
 import { Request, Response, NextFunction } from "express";
 import { FeedbackService } from "../services/feedback.service";
-import { logger } from "../config/logger";
 
 const feedbackService = new FeedbackService();
 

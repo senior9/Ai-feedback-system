@@ -1,5 +1,3 @@
-// backend/src/routes/feedback.routes.ts
-
 import { Router } from "express";
 import { FeedbackController } from "../controllers/feedback.controller";
 import {

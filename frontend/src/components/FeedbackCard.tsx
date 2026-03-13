@@ -1,5 +1,3 @@
-// frontend/src/components/FeedbackCard.tsx
-
 import type { Feedback } from "../types";
 import { getFeedbackId } from "../types";
 import { useUpdateStatus } from "../hooks/useFeedback";

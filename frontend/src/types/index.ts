@@ -1,5 +1,3 @@
-// frontend/src/types/index.ts
-
 export interface Feedback {
   id: string;
   _id?: string;              // ◀── FIX: handle both formats

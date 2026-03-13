@@ -1,5 +1,3 @@
-// frontend/src/components/CreateFeedbackModal.tsx
-
 import { useState } from "react";
 import { useCreateFeedback } from "../hooks/useFeedback";
 

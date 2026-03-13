@@ -1,5 +1,3 @@
-// backend/src/services/feedback.service.ts
-
 import { Feedback, FeedbackDocument } from "../models/feedback.model";
 import { createFeedbackQueue } from "../config/queue";
 import { logger } from "../config/logger";
